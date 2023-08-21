@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  p {
+    margin-bottom: 1rem;
+  }
+  
+  input {
+    width: 100%;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    word-wrap: break-word;
+  }
+  
+  input[type="submit"] {
+    background-color: #7fbdff;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  #results {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    word-wrap: break-word;
+  }
